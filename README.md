@@ -22,5 +22,3 @@ Navigation between pages happens without reloading the browser.
 - Routes
 - Route
 - Link
-
-## 📁 Project Structure
